@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mauryan04
-- 👀 I’m interested in web development and hoping to become a full stack developer.
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Data Science and Machine learning.
+- 🌱 I’m currently learning Machine learning and data analysis.
 - 💞️ I’m looking to collaborate on anything related to my interest.
 - 📫 How to reach me linkedin.com/in/ishan-bajpai-0238a5137
 
